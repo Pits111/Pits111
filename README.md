@@ -1,3 +1,8 @@
+![shutterstock_1285709983](https://user-images.githubusercontent.com/79207112/119679875-00c51600-be41-11eb-9f82-89681f4c62ac.png)
+
+
+
+
 ### Hi, I'm Isa 
 
 What started with **Pie in the sky (Pits)** finally became reality. I started learning to code! 💥
