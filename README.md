@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Isa 
 
-<!--
-**Pits111/Pits111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+what started with ***Pie In The Sky (PITS)*** finally became reality. I started learning to code! 💥
 
-Here are some ideas to get you started:
+Having worked as a project manager, product owner, scrum master and policy advisor, I have gained a bunch
+tech- and soft-skills throughout the years. Now I am improving my JS and React skills. 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Unitl now, learning to code has been highly challenging and fun at the same time! 🚀
+
+Exactly my cup to tea 🍵👌
+
+Cheers to you 
+
