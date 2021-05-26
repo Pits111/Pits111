@@ -12,7 +12,7 @@ of tech and soft skills throughout the years. Now I am improving my JS and React
 
 Unitl now, learning to code has been highly challenging and fun at the same time! 🚀
 
-Exactly my cup to tea. 🍵👌
+Exactly my cup of tea. 🍵👌
 
 Cheers to you 
 
