@@ -3,12 +3,9 @@
 
 
 
-### Hi, I'm Isa 
+### Hi, I'm Pits. 
 
 What started with **Pie in the sky (Pits)** finally became reality. I started learning to code! 💥
-
-Having worked as a project manager, product owner, policy advisor, and even creative producer, I have gained a bunch
-of tech and soft skills throughout the years. Now I am improving my JS and React skills. 👩‍💻
 
 Until now, learning to code has been highly challenging and fun at the same time! 🚀
 
